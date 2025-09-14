@@ -1,0 +1,13 @@
+Mario Character tilemap: https://dotstudio.itch.io/super-mario-1-remade-assets
+Mario World tilemap: https://docs.google.com/presentation/d/1y7hScoTcc80GVU4An643KZqhzDbkW-VNGceJAYPTc1c/edit?rm=embedded#slide=id.p10
+GameLoop & Map Class: https://tools.uia.no/bitbucket/projects/IKT103G22V/repos/teacher-course/browse/20_sfml_tiled
+Font: https://fonts.google.com/specimen/Roboto
+Block sound: https://www.zapsplat.com/?s=small+rock+drop+roll+fall&post_type=music&sound-effect-category-id=
+Coin sound: https://mixkit.co/free-sound-effects/coin/ (Name of sound is Game Treasure Coin)
+Grow sound: https://www.zapsplat.com/music/arcade-game-level-up-tone/
+Jump sound: https://www.zapsplat.com/music/retro-8-bit-video-game-jump-2/
+Music: https://www.fesliyanstudios.com/royalty-free-music/download/arcade-kid/618
+
+The SFML 2.5 Tutorial has also been used as a general reference: https://www.sfml-dev.org/tutorials/2.5/
+
+Sounds and music converted using: https://cloudconvert.com/mp3-to-wav

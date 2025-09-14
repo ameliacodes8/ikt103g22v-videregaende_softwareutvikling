@@ -1,0 +1,11 @@
+# Group contract - contains signatures, keep private
+Group 0014 contract IKT-103 signed.pdf
+
+# Build directories
+Source/cmake-build-debug/
+Source/build/
+build/
+
+# CLion IDE files
+Source/.idea/
+.idea/
