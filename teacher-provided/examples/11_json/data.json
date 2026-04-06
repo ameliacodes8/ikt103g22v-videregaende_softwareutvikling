@@ -1,0 +1,34 @@
+{
+  "id": "0001",
+  "type": "donut",
+  "name": "Donut Extreme",
+  "price": 5.99,
+  "batters": [
+    {
+      "id": "1001",
+      "type": "Regular"
+    },
+    {
+      "id": "1002",
+      "type": "Chocolate"
+    }
+  ],
+  "toppings": [
+    {
+      "id": "5001",
+      "type": "None"
+    },
+    {
+      "id": "5002",
+      "type": "Glazed"
+    },
+    {
+      "id": "5003",
+      "type": "Sugar"
+    },
+    {
+      "id": "5004",
+      "type": "Chocolate"
+    }
+  ]
+}
