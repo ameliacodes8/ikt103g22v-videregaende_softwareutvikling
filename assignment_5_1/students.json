@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Lisa Larsen",
+    "age": 22,
+    "attendance": 20
+  },
+  {
+    "id": 2,
+    "name": "Knut Knutsen",
+    "age": 29,
+    "attendance": 29
+  },
+  {
+    "id": 3,
+    "name": "Ola Olasen",
+    "age": 20,
+    "attendance": 30
+  },
+  {
+    "id": 4,
+    "name": "Ivar Ivarsen",
+    "age": 30,
+    "attendance": 71
+  }
+]
