@@ -17,7 +17,6 @@ std::string getFileContent(const std::string& fileName) {
 int main() {
     std::list<Student*> studentList;
     std::list<Student> badStudents;
-    //auto json = getFileContent("C:\\Users\\helga\\ikt103g22v\\assignments\\solutions\\assignment_4_2\\students.json");
     auto json = getFileContent("students.json");
     char char_array[json.length()+1];
     strcpy(char_array, json.c_str());
